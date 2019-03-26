@@ -3,7 +3,7 @@ You've reached the landing page of the ERNI Security Community.
 
 There are two ways of interacting with the Community
 
-<img style="float: right; src="https://media.licdn.com/dms/image/C5603AQEeSkZ13RQldg/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=QiEF-imT3phOUAzqGRFGkfkXW4GdOauVP9fAgarIu4w" alt="Eudes Costa" width="200"/>
+<img align="right" src="https://media.licdn.com/dms/image/C5603AQEeSkZ13RQldg/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=QiEF-imT3phOUAzqGRFGkfkXW4GdOauVP9fAgarIu4w" alt="Eudes Costa" width="200"/>
 
 Eudes Costa
 Sponsor
