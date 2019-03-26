@@ -9,9 +9,9 @@ There are two ways of interacting with the Community
 |--------|:---:|-------|-----------------------------|---|
 |Eudes Costa|Hernan Bartolleti|Gerard|Sebas|David|
 |Sponsor, SME|SME|SME|SME|SME|
-|Backend |||||
 |Frontend|Embedded|Cryptography|QA|Pentesting|
-|Devops|Embedded|Cryptography|QA|Pentesting|
+|Backend |||||
+|Devops|||||
 
 ### Joining a Project
 
