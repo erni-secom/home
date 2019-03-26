@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 You've reached the landing page of the ERNI Security Community.
 
 There are two ways of interacting with the Community
@@ -11,7 +13,7 @@ There are two ways of interacting with the Community
 
 ### Joining a Project
 
-##### 1st step # Select a project from the 
+##### 1st step # Select a project from [here](./supported-projects.html).
 ##### 2nd step # Let us know what project you want to contribute (Voting form below). Go for the 1st Question!
 #### 3rd step # Wait! We'll get in touch with you :)
 
