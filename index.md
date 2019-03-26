@@ -5,13 +5,13 @@ You've reached the landing page of the ERNI Security Community, an ERNI internal
 
 There are two ways of interacting with the Community:
 
-## Joining a Project
+## 1. Joining a Project
 
-#### 1st step # Select a project from [here](./supported-projects.html).
+#### 1st step # Select a project from [here](./supported-projects.html)
 #### 2nd step # Let us know what project you want to contribute (_Voting_ _form_ _below_). Go for the 1st Question!
 #### 3rd step # Wait! We'll get in touch with you in a couple of days :)
 
-## Submitting a Project
+## 2. Submitting a Project
 
 #### 1st step # Tell us what thrills you on Security and that is currently not listed. Go for the 2nd Question!
 
