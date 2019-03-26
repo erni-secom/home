@@ -1,123 +1,26 @@
----
-layout: default
----
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+You've reached the landing page of the ERNI Security Community.
 
-[Link to another page](./another-page.html).
+There are two ways of interacting with the Community
 
-There should be whitespace between paragraphs.
+![Eudes Costa | Sponsor | Backend, Frontend, DevOps SME] (https://media.licdn.com/dms/image/C5603AQEeSkZ13RQldg/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=QiEF-imT3phOUAzqGRFGkfkXW4GdOauVP9fAgarIu4w)
+![Eudes Costa | Sponsor | Backend, Frontend, DevOps SME] (https://media.licdn.com/dms/image/C5603AQEeSkZ13RQldg/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=QiEF-imT3phOUAzqGRFGkfkXW4GdOauVP9fAgarIu4w)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+#### Joining a Project
 
-# Header 1
+1st step # Select a project from the 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+2nd step # Let us know what project you want to contribute here. Go for the 1st Question!
 
-## Header 2
+[SECOM Voting Form](https://forms.office.com/Pages/ResponsePage.aspx?id=joEl69Vbv0mZ3lPj57QmMATw9euRLgpPqVDZIHX4bFtUODNCTFk0N0xKUDlYT0lXU0tKVUFTSkdOWC4u).
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+3rd step # Wait! We'll get in touch with you :)
 
-### Header 3
+#### Submiting a Project
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+1st steps # Tell us what thrills you on Security, and that is currently no listed. Go for the 2nd Question!
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+https://forms.office.com/Pages/ResponsePage.aspx?id=joEl69Vbv0mZ3lPj57QmMATw9euRLgpPqVDZIHX4bFtUODNCTFk0N0xKUDlYT0lXU0tKVUFTSkdOWC4u
 
-#### Header 4
+[SECOM Voting Form](https://forms.office.com/Pages/ResponsePage.aspx?id=joEl69Vbv0mZ3lPj57QmMATw9euRLgpPqVDZIHX4bFtUODNCTFk0N0xKUDlYT0lXU0tKVUFTSkdOWC4u).
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
