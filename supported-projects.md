@@ -19,7 +19,7 @@ layout: default
 <img src="./assets/images/app-sec-back-fron-devops-overview.png" width="800" style="max-width:95%;border: 2px solid #b5e853;"/>
 <img src="./assets/images/app-sec-back-fron-devops-roadmap.png" width="800" style="max-width:95%;border: 2px solid #b5e853;"/>
 
-## Embedded
+## Embedded Security
 
 <img src="./assets/images/app-sec-embedded-overview.png" width="800" style="max-width:95%;border: 2px solid #b5e853;"/>
 <img src="./assets/images/app-sec-embedded-road-0.png" width="800" style="max-width:95%;border: 2px solid #b5e853;"/>
