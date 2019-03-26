@@ -3,10 +3,10 @@ You've reached the landing page of the ERNI Security Community.
 
 There are two ways of interacting with the Community
 
-![Eudes Costa](https://media.licdn.com/dms/image/C5603AQEeSkZ13RQldg/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=QiEF-imT3phOUAzqGRFGkfkXW4GdOauVP9fAgarIu4w=100x20)
+![Eudes Costa](https://media.licdn.com/dms/image/C5603AQEeSkZ13RQldg/profile-displayphoto-shrink_200_200/0?e=1558569600&v=beta&t=QiEF-imT3phOUAzqGRFGkfkXW4GdOauVP9fAgarIu4w)
 Sponsor
 
-![Gerard Auguets](https://media.licdn.com/dms/image/C5603AQEJ1FQh9iXhDw/profile-displayphoto-shrink_800_800/0?e=1558569600&v=beta&t=bk97ByKgFrL8g1cXxQqA-JxK4yhFtMEFJmxQN6oOQ4c=100x20)
+![Gerard Auguets](https://media.licdn.com/dms/image/C5603AQEJ1FQh9iXhDw/profile-displayphoto-shrink_800_800/0?e=1558569600&v=beta&t=bk97ByKgFrL8g1cXxQqA-JxK4yhFtMEFJmxQN6oOQ4c)
 Cryptography SME
 
 ### Joining a Project
