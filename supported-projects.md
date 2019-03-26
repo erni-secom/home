@@ -6,8 +6,8 @@ layout: default
 
 #### Software Security Testing Process Initiative
 
-![Branching](./assets/images/app-sec-back-fron-devops-overview.png=100x20)
-![Branching](./assets/images/app-sec-back-fron-devops-roadmap.png=100x20)
+<img src="./assets/images/app-sec-back-fron-devops-overview.png" alt="Eudes Costa" width="100"/>
+<img src="./assets/images/app-sec-back-fron-devops-roadmap.png" alt="Eudes Costa" width="100"/>
 
 #### The Pentesting Process
 

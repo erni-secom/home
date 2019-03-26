@@ -9,17 +9,19 @@ There are two ways of interacting with the Community
 |--------|:---:|-------|-----------------------------|---|
 |Eudes Costa|Hernan Bartolleti|Gerard|Sebas|David|
 |Sponsor, SME|SME|SME|SME|SME|
-|Backend Frontend Devops|Embedded|Cryptography|QA|Pentesting|
+|Backend |||||
+|Frontend|Embedded|Cryptography|QA|Pentesting|
+|Devops|Embedded|Cryptography|QA|Pentesting|
 
 ### Joining a Project
 
-##### 1st step # Select a project from [here](./supported-projects.html).
-##### 2nd step # Let us know what project you want to contribute (Voting form below). Go for the 1st Question!
+#### 1st step # Select a project from [here](./supported-projects.html).
+#### 2nd step # Let us know what project you want to contribute (Voting form below). Go for the 1st Question!
 #### 3rd step # Wait! We'll get in touch with you :)
 
 ### Submiting a Project
 
-##### 1st steps # Tell us what thrills you on Security, and that is currently no listed. Go for the 2nd Question!
+#### 1st step # Tell us what thrills you on Security, and that is currently no listed. Go for the 2nd Question!
 
 ---> [SECOM Voting Form](https://forms.office.com/Pages/ResponsePage.aspx?id=joEl69Vbv0mZ3lPj57QmMATw9euRLgpPqVDZIHX4bFtUODNCTFk0N0xKUDlYT0lXU0tKVUFTSkdOWC4u)
 
