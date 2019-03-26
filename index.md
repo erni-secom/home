@@ -3,7 +3,7 @@ layout: default
 ---
 You've reached the landing page of the ERNI Security Community, an ERNI internal initiative to foster the development of security know-how! 
 
-There are two ways of interacting with the Community:
+There are two ways of interacting with the community:
 
 ## 1. Joining a Project
 
@@ -13,7 +13,7 @@ There are two ways of interacting with the Community:
 
 ## 2. Submitting a Project
 
-#### 1st step # Tell us what thrills you on Security and that is currently not listed. Go for the 2nd Question!
+#### 1st step # Tell us what thrills you on Security and that is currently not listed (_on_ _the_ _same_ _form_ _below_) . Go for the 2nd Question!
 
 ---> [SECOM Voting Form](https://forms.office.com/Pages/ResponsePage.aspx?id=joEl69Vbv0mZ3lPj57QmMATw9euRLgpPqVDZIHX4bFtUODNCTFk0N0xKUDlYT0lXU0tKVUFTSkdOWC4u)
 
