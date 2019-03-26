@@ -17,6 +17,7 @@ There are two ways of interacting with the Community:
 
 ---> [SECOM Voting Form](https://forms.office.com/Pages/ResponsePage.aspx?id=joEl69Vbv0mZ3lPj57QmMATw9euRLgpPqVDZIHX4bFtUODNCTFk0N0xKUDlYT0lXU0tKVUFTSkdOWC4u)
 
+* * *
 
 ### The Facilitators
 
