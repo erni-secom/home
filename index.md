@@ -25,7 +25,7 @@ There are two ways of interacting with the community:
 |--------|---|-------|-----------------------------|---|
 |Eudes Costa|Hernán  Bartoletti|Gerard Auguets|Sebastián Mosca|David Soto|
 |Sponsor, SME|SME|SME|SME|SME|
-|Frontend|Embedded|Cryptography|QA|Pentesting|
+|Frontend|Embedded|Cryptography|Security Testing|Security Testing|
 |Backend |||||
 |Devops|||||
 
