@@ -1,21 +1,22 @@
 ---
 layout: default
 ---
-You've reached the landing page of the ERNI Security Community, an ERNI internal initiative to foster the development of security know-how 
+You've reached the landing page of the ERNI Security Community, an ERNI internal initiative to foster the development of security know-how! 
 
-There are two ways of interacting with the Community
+There are two ways of interacting with the Community:
 
-### Joining a Project
+## Joining a Project
 
 #### 1st step # Select a project from [here](./supported-projects.html).
-#### 2nd step # Let us know what project you want to contribute (Voting form below). Go for the 1st Question!
-#### 3rd step # Wait! We'll get in touch with you :)
+#### 2nd step # Let us know what project you want to contribute (_Voting_ _form_ _below_). Go for the 1st Question!
+#### 3rd step # Wait! We'll get in touch with you in a couple of days :)
 
-### Submiting a Project
+## Submitting a Project
 
-#### 1st step # Tell us what thrills you on Security, and that is currently no listed. Go for the 2nd Question!
+#### 1st step # Tell us what thrills you on Security and that is currently no listed. Go for the 2nd Question!
 
 ---> [SECOM Voting Form](https://forms.office.com/Pages/ResponsePage.aspx?id=joEl69Vbv0mZ3lPj57QmMATw9euRLgpPqVDZIHX4bFtUODNCTFk0N0xKUDlYT0lXU0tKVUFTSkdOWC4u)
+
 
 ### The Facilitators
 
@@ -27,5 +28,6 @@ There are two ways of interacting with the Community
 |Backend |||||
 |Devops|||||
 
+Links
 
 [Resources Page](./resources.html)
